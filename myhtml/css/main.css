@@ -138,10 +138,9 @@ body {
 .contentik span {
     display: block;
 }
-
 .layers__container-2 {
     height: 100vh;
-    min-height: 1000px;
+    min-height: 1200px;
 }
 .first__item {
     position: absolute;
